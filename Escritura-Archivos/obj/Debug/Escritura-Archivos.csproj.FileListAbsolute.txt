@@ -5,3 +5,10 @@ C:\Users\magcl\OneDrive\Escritorio\tec univercidad\P.O,O\unidad 6\Escritura-Arch
 C:\Users\magcl\OneDrive\Escritorio\tec univercidad\P.O,O\unidad 6\Escritura-Archivos\obj\Debug\Escritura-Archivos.csproj.CoreCompileInputs.cache
 C:\Users\magcl\OneDrive\Escritorio\tec univercidad\P.O,O\unidad 6\Escritura-Archivos\obj\Debug\Escritura-Archivos.exe
 C:\Users\magcl\OneDrive\Escritorio\tec univercidad\P.O,O\unidad 6\Escritura-Archivos\obj\Debug\Escritura-Archivos.pdb
+C:\Users\magcl\OneDrive\Documentos\GitHub\EscrituraArchivos\Escritura-Archivos\bin\Debug\Escritura-Archivos.exe.config
+C:\Users\magcl\OneDrive\Documentos\GitHub\EscrituraArchivos\Escritura-Archivos\bin\Debug\Escritura-Archivos.exe
+C:\Users\magcl\OneDrive\Documentos\GitHub\EscrituraArchivos\Escritura-Archivos\bin\Debug\Escritura-Archivos.pdb
+C:\Users\magcl\OneDrive\Documentos\GitHub\EscrituraArchivos\Escritura-Archivos\obj\Debug\Escritura-Archivos.csproj.AssemblyReference.cache
+C:\Users\magcl\OneDrive\Documentos\GitHub\EscrituraArchivos\Escritura-Archivos\obj\Debug\Escritura-Archivos.csproj.CoreCompileInputs.cache
+C:\Users\magcl\OneDrive\Documentos\GitHub\EscrituraArchivos\Escritura-Archivos\obj\Debug\Escritura-Archivos.exe
+C:\Users\magcl\OneDrive\Documentos\GitHub\EscrituraArchivos\Escritura-Archivos\obj\Debug\Escritura-Archivos.pdb
