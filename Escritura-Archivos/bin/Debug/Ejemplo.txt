@@ -1,7 +1,9 @@
 Esta n la informacion de la primera linea
 Esta es la segunda linea 
 Fin del tetxto
+
 Datos de la persona
-El nombre es: Daniel Gutierrez Agaton
-la edada es: 18
-Su pelicula favorita: Titanic
+El nombre es: Daniel
+la edada es: 19
+Su pelicula favorita: titanic
+Su Musica favorita: Brillo
