@@ -16,6 +16,7 @@ namespace Escritura_Archivos
             public   int Edad;
             public string Pelicula;
             public string Musica;
+            public string Vj;
 
 
             public Datos(string Nom, int Edad, string Pelicula, string Musica, string Vj)//Constructor
@@ -24,7 +25,7 @@ namespace Escritura_Archivos
                 this.Edad = Edad;
                 this.Pelicula = Pelicula;
                 this.Musica = Musica;
-
+                this.Vj = Vj;
             }
             
           
@@ -39,6 +40,7 @@ namespace Escritura_Archivos
             string Pelicula;
             string Musica;
             string Vj;
+
             //Pedir datos
             Console.Write("Dame un nombre con apellidos: ");
             Nom = Convert.ToString(Console.ReadLine());
@@ -53,7 +55,7 @@ namespace Escritura_Archivos
 
             //Creacion de objetos
             StreamWriter sw = new StreamWriter("Ejemplo.txt",true);
-            Datos D = new Datos(Nom, Edad, Pelicula, Musica, vj);
+            Datos D = new Datos(Nom, Edad, Pelicula, Musica, Vj);
        
             //Imprimir datos
             sw.WriteLine("Datos de la persona");
@@ -61,6 +63,7 @@ namespace Escritura_Archivos
             sw.WriteLine("la edada es: " + D.Edad);
             sw.WriteLine("Su pelicula favorita: " + D.Pelicula);
             sw.WriteLine("Su Musica favorita: " + D.Musica);
+            sw.WriteLine("Su Videjuego  favorita: " + D.Vj);
 
             sw.Close();
 
